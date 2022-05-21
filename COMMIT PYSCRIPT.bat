@@ -7,4 +7,4 @@ cd "C:\Users\spuser\OneDrive - Facultad de Ingeniería de la Universidad de San 
 git add .
 git commit -m "ADDED new commit to github"
 git push
-pause
+@REM pause
